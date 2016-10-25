@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="MatrixDisplay.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" PreferredExecutionTarget="Android.myphone" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MainActivity.cs">
+    <Files>
+      <File FileName="MainActivity.cs" Line="479" Column="4" />
+      <File FileName="Message.cs" Line="1" Column="1" />
+      <File FileName="Resources\menu\popup_menu.xml" Line="1" Column="1" />
+      <File FileName="ChangePassword.cs" Line="1" Column="1" />
+      <File FileName="Properties\AndroidManifest.xml" Line="4" Column="36" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MatrixDisplay AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>
